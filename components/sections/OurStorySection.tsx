@@ -18,7 +18,7 @@ const milestones = [
   },
   {
     id: 2,
-    date: 'Febraury 2023',
+    date: 'April 2023',
     title: 'That School Afternoon',
     description:
       'That School afternoon , looking for each other in that noisy road. Looking behind if you are Gazing me',
