@@ -18,7 +18,7 @@ const milestones = [
   },
   {
     id: 2,
-    date: 'April 2023',
+    date: 'Febraury 2023',
     title: 'That School Afternoon',
     description:
       'That School afternoon , looking for each other in that noisy road. Looking behind if you are Gazing me',
@@ -29,7 +29,7 @@ const milestones = [
   },
   {
     id: 3,
-    date: 'May 2022',
+    date: 'April 2023',
     title: 'Confession',
     description:
       'Walking through T.Nagar, hands almost touching, hearts absolutely racing. The awkward silences that somehow felt perfect, and the laughter that made it all effortless.',
